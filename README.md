@@ -1,2 +1,2 @@
-# Ola_Mundo
- Primeiro programa usando Git e Github
+# Olá, Mundo!!
+ Primeiro repositorio criado usando o Git e GitHub
